@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Carlos Henrique Racobaldo Luz Montes</h1>
 
-- 🌱 I’m currently learning **Python, Java, C++**
+- 🌱 I’m currently learning **Python, Java, C#**
 
 - 💻 I'm a Computer Engineering Student at **SENAI Cimatec**
 
