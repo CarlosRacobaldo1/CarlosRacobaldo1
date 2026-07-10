@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Python, Java and C#**
 
-- 💻 I'm a Computer Engineering graduated from **SENAI Cimatec**
+- 💻 I'm a Computer Engineer graduated from **SENAI Cimatec**
 
 - 📫 How to reach me **carloshracobaldo@gmail.com**
 
